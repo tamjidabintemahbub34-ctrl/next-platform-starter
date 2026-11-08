@@ -1,16 +1,19 @@
 # Excel Lead Tracker & Data Management
 
+![Day 2 Excel portfolio cover](https://static.wixstatic.com/media/e31d82_7ead79d535974659924ab79f7a0120ff~mv2.png)
+
 **Project type:** Independent practice project  
 **Training stage:** Day 2 — Excel & Google Sheets  
 **Service demonstrated:** Lead database organization, sorting, filtering, source tracking and data-quality review.
 
+## Project files
+- [Download the Excel workbook](https://headless-ozyvukraksu-tamjidabintemahbub-1412.wix-site-host.com/downloads/Professional_Lead_Generation_Portfolio_Bangladesh.xlsx)
+- [View lead database preview](https://static.wixstatic.com/media/e31d82_4e6ff2e954fb4ed1a320e9d2430523b9~mv2.png)
+
 ## Project objective
 Organize a small Bangladesh business-lead list into a structured workbook that a client or teammate can review and maintain.
 
-## Workbook
-[Download the Excel workbook](./Professional_Lead_Generation_Portfolio_Bangladesh.xlsx)
-
-### Included worksheets
+## Included worksheets
 - `START HERE` — project overview and usage guidance
 - `LEAD DATABASE` — 10 business lead records
 - `SOURCE REGISTER` — source links and research references
