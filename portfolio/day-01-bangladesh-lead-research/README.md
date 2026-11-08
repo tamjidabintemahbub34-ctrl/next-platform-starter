@@ -1,5 +1,7 @@
 # Bangladesh Digital Marketing Agency Lead Research
 
+![Day 1 Lead Generation portfolio cover](https://static.wixstatic.com/media/e31d82_104de8d62c424571b4ecae9d1d41322a~mv2.png)
+
 **Project type:** Practice Sample (not paid client work)  
 **Service demonstrated:** Web Research, Lead Generation, Data Entry, Source Verification  
 **Market:** Bangladesh  
