@@ -1,0 +1,12 @@
+Item ID,Item Name,Category,Stock Qty,Unit Price GBP,Stock Value GBP,Stock Status
+ITM-1001,Wireless Mouse,Electronics,120,18.99,=D2*E2,In Stock
+ITM-1002,Mechanical Keyboard,Electronics,45,48.99,=D3*E3,In Stock
+ITM-1003,HD Monitor 24 inch,Electronics,18,129.99,=D4*E4,Low Stock
+ITM-1004,USB-C Cable,Accessories,200,8.99,=D5*E5,In Stock
+ITM-1005,External Hard Drive 1TB,Electronics,10,59.99,=D6*E6,Low Stock
+ITM-1006,Laptop Stand,Accessories,75,24.99,=D7*E7,In Stock
+ITM-1007,Webcam 1080p,Electronics,25,39.99,=D8*E8,In Stock
+ITM-1008,Bluetooth Speaker,Electronics,0,29.99,=D9*E9,Out of Stock
+ITM-1009,Desk Lamp LED,Office,35,15.99,=D10*E10,Low Stock
+ITM-1010,Notebook A5,Office,150,4.99,=D11*E11,In Stock
+ITM-1011,Wireless Headphones,Electronics,0,69.99,=D12*E12,Out of Stock
