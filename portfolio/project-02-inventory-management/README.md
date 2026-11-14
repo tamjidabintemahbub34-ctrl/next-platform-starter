@@ -3,6 +3,10 @@
 **Portfolio category:** Excel / Spreadsheet Support / E-commerce Operations  
 **Project type:** Independent practice sample · illustrative data
 
+## Sample screenshot
+
+![Project 2 — Inventory Management Sheet](https://static.wixstatic.com/media/e31d82_68413a9f3b3b4d33ab60611962203ef6~mv2.png)
+
 ## Objective
 Create a clear inventory tracker that helps a small business review quantities, stock value, product categories and replenishment priorities.
 
@@ -20,7 +24,7 @@ Assuming the CSV is opened in Excel:
 - **Out of Stock Count:** `=COUNTIF(G2:G12,"Out of Stock")`
 
 ## Data quality note
-The supplied visual reference contains illustrative values that do not all reconcile mathematically. This sample uses the visible product names and quantities, but corrects the external-drive quantity to 10 to match the reference's displayed £599.90 value. The dashboard should calculate totals from the underlying rows rather than copy a pre-filled total from a mockup. Set low-stock thresholds to match the store's own reorder policy.
+The screenshot is shown as supplied for portfolio presentation. Its figures and formulas have not been independently audited. Refer to the included CSV and calculate totals from the underlying rows before using this as a live business report.
 
 ## Skills demonstrated
 Excel formulas · inventory tracking · data validation · conditional formatting · KPI design · category analysis · dashboard planning
