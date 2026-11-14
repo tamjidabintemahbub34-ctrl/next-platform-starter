@@ -1,0 +1,12 @@
+Date,Product,Units Sold,Unit Price GBP,Total Sales GBP
+2024-05-01,Keyboard,15,25.00,=C2*D2
+2024-05-02,Mouse,20,15.00,=C3*D3
+2024-05-03,Monitor,8,120.00,=C4*D4
+2024-05-04,Laptop,5,550.00,=C5*D5
+2024-05-05,Keyboard,18,25.00,=C6*D6
+2024-05-06,Mouse,25,15.00,=C7*D7
+2024-05-07,Monitor,6,120.00,=C8*D8
+2024-05-09,Laptop,4,550.00,=C9*D9
+2024-05-10,Keyboard,22,25.00,=C10*D10
+2024-05-11,Monitor,10,120.00,=C11*D11
+2024-05-12,Laptop,3,550.00,=C12*D12
