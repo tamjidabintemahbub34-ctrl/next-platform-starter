@@ -41,3 +41,19 @@ If your browser doesn't navigate to the site automatically, visit [localhost:888
 ## Resources
 
 - Check out the [Next.js on Netlify docs](https://docs.netlify.com/frameworks/next-js/overview/)
+
+
+---
+
+## Portfolio Projects
+
+This repository also contains practical portfolio case studies in business support, spreadsheet management and data operations.
+
+### E-commerce Operations & Data Support Project
+
+A practice project concept covering product master data, variants and SKUs, inventory tracking, order management, sales analysis and dashboard reporting.
+
+- [Open project README](./portfolio/project-04-ecommerce-operations-data-support/README.md)
+- [View project showcase on portfolio website](https://headless-zsibabcvduj-tamjidabintemahbub-1412.wix-site-host.com/#projects)
+
+*Independent practice sample, not a paid client project. The visual showcase is a concept image; the workbook and analysis will be added after completion.*
